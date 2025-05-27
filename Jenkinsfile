@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo "Gi-Build step"
+                echo "Gitt-Build step"
             }
         }
         stage('Test') {
